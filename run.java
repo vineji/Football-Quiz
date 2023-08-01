@@ -2,7 +2,7 @@ public class run {
 
 
     public static void main(String[] args){
-        playable p =  new Mini();
+        playable p =  new Football_Quiz();
         Player v = new Quiz(System.out,System.in);
         p.play(v,0);
         
