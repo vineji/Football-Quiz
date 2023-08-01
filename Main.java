@@ -16,7 +16,7 @@ class Question
 
 
 
-public class Football_Quiz extends player_session{
+public class Main extends player_session{
 
     private Question create_question(String the_question, String [] wrong_answers, String correct_answer, int time_allowed){
         // Questions are created and returned.
