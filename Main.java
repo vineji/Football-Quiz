@@ -54,12 +54,13 @@ public class Main extends player_session{
                 "First, you will be shown the answers on coloured blocks.<br>"+
                 "You will need to memorise where each answer was on its dedicated colour.<br>"+
                 "Next the answers will disappear and the question will show.<br>"+
-                "Simultaneously the coloured blocks will change colours, after they stopped changing<br>"+
+                "Simultaneously the coloured blocks will change colours after they stopped changing<br>"+
                 "you will need to choose the coloured block that had the right answer.<br>";
 
         instructions[1] = "From questions 1-3 you will have 15 seconds to look at the answers,<br>"+
-                " questions 4-9 you will have 10 seconds to look at the answers,<br>" +
-                "For all questions you will have 10 seconds to choose an answer. <br>"+
+                " questions 4-6 you will have 10 seconds to look at the answers,<br>" +
+                " questions 7-9 you will have 8 seconds to look at the answers,<br>" +
+                "For all questions, you will have 10 seconds to choose an answer. <br>"+
                 "The questions will gradually become more difficult to test your football knowledge.";
 
         instructions[2] = "Points System: <br>"+
